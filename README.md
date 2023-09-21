@@ -1,1 +1,1 @@
-# Linear_Regression_Model_in_R
+# Logistic_Regression_Model_in_R
